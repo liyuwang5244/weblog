@@ -1,0 +1,7 @@
+2024-12-01 21:35:45.471 [main] INFO  com.liyuwang.weblogweb.WeblogWebApplicationTests - Starting WeblogWebApplicationTests using Java 1.8.0_201 on liyuwang with PID 18132 (started by 32173 in D:\project\weblog\weblog-springboot\weblog-web)
+2024-12-01 21:35:45.472 [main] INFO  com.liyuwang.weblogweb.WeblogWebApplicationTests - The following profiles are active: prod
+2024-12-01 21:35:47.008 [main] INFO  com.liyuwang.weblogweb.WeblogWebApplicationTests - Started WeblogWebApplicationTests in 2.168 seconds (JVM running for 3.328)
+2024-12-01 21:35:47.209 [main] INFO  com.liyuwang.weblogweb.WeblogWebApplicationTests - 这是一行 Info 级别日志
+2024-12-01 21:35:47.209 [main] WARN  com.liyuwang.weblogweb.WeblogWebApplicationTests - 这是一行 Warn 级别日志
+2024-12-01 21:35:47.209 [main] ERROR com.liyuwang.weblogweb.WeblogWebApplicationTests - 这是一行 Error 级别日志
+2024-12-01 21:35:47.209 [main] INFO  com.liyuwang.weblogweb.WeblogWebApplicationTests - 作者：liyuwang

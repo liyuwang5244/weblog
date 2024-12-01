@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.liyuwang.weblogweb.demos.web;
+package com.liyuwang.weblog.web.demos.web;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
