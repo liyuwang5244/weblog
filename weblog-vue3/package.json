@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
     "element-plus": "^2.3.9",
     "flowbite": "^1.8.1",
     "vue": "^3.5.13",
@@ -22,6 +23,7 @@
     "unplugin-auto-import": "^0.16.7",
     "unplugin-vue-components": "^0.25.2",
     "vite": "^6.0.1",
-    "vite-plugin-vue-devtools": "^7.6.5"
+    "vite-plugin-vue-devtools": "^7.6.5",
+    "vite-svg-loader": "^5.1.0"
   }
 }
