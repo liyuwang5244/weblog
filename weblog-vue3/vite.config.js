@@ -10,6 +10,15 @@ import AutoImport from 'unplugin-auto-import/vite'
 import Components from "unplugin-vue-components/vite";
 
 export default defineConfig({
+  server: {
+    proxy: {
+      '/api': {
+        target: 'http://localhost:8081',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/api/, ''),
+      },
+    }
+  },
   plugins: [
     vue(),
     vueDevTools(),
